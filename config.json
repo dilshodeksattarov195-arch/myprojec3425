@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvarse",
+        "uuid": 9131050,
+        "checksum": "l6e9a"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
